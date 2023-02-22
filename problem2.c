@@ -11,5 +11,8 @@ int main ()
      printf("Enter your favorite letter: ");
      scanf(" %c", &favLetter);
 
+     printf("Favorite number is: %d \n", favNum);
+     printf("Favorite letter is: %c ", favLetter);
+
     return 0;
 }
