@@ -13,7 +13,7 @@
   <p align="center">
      <samp>
        <a href="https://github.com/WasathTheekshana/diveIntoC/tree/presentation" target="_blank">Presentiation</a> |
-       <a href="https://www.behance.net/wasathvihanga" target="_blank">Questions & Answers</a> 
+       <a href="https://github.com/WasathTheekshana/diveIntoC/blob/questions-%26-answers/README.md" target="_blank">Questions & Answers</a> 
      </samp>
     </p>
 </h3> 
