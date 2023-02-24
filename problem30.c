@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int sumAndAvg(float x, float y)
+void sumAndAvg(float x, float y)
 {
     float sum = x + y;
     float avg = (x + y)/2;
